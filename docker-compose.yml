@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  web-api:
+    image: dockerapi:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:5000"
+     

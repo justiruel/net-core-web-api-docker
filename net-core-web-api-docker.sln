@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net-core-web-api-docker", "net-core-web-api-docker.csproj", "{64DF68EB-A663-4584-80C2-404DC9779808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64DF68EB-A663-4584-80C2-404DC9779808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DF68EB-A663-4584-80C2-404DC9779808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DF68EB-A663-4584-80C2-404DC9779808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DF68EB-A663-4584-80C2-404DC9779808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3DA2695-6027-4C6D-9BF1-4EB8DAD03245}
+	EndGlobalSection
+EndGlobal
